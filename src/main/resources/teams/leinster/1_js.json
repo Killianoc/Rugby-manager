@@ -1,0 +1,22 @@
+{
+  "playerId" : 1,
+  "profile" : {
+    "name" : "Jonathon Sexton",
+    "age" : 32,
+    "position" : "OUTHALF",
+    "description" : "A world class player",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 84,
+    "tackling" : 78,
+    "passing" : 82,
+    "aggression" : 76,
+    "leadership" : 80,
+    "creativity" : 79,
+    "speed" : 74,
+    "strength" : 55,
+    "fitness" : 84,
+    "fitnessCapacity" : 84
+  }
+}

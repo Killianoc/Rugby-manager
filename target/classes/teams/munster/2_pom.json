@@ -1,0 +1,22 @@
+{
+  "playerId" : 2,
+  "profile" : {
+    "name" : "Peter O' Mahoney",
+    "age" : 30,
+    "position" : "FLANKER",
+    "description" : "A world class player",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 45,
+    "tackling" : 80,
+    "passing" : 64,
+    "aggression" : 81,
+    "leadership" : 84,
+    "creativity" : 56,
+    "speed" : 68,
+    "strength" : 78,
+    "fitness" : 82,
+    "fitnessCapacity" : 82
+  }
+}
