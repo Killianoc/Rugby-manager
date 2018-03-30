@@ -1,0 +1,22 @@
+{
+  "playerId" : 11,
+  "profile" : {
+    "name" : "Jordie Murphy",
+    "age" : 28,
+    "position" : "OPENSIDE_FLANKER",
+    "description" : "A decent flanker",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 48,
+    "tackling" : 80,
+    "passing" : 66,
+    "aggression" : 82,
+    "leadership" : 60,
+    "creativity" : 59,
+    "speed" : 76,
+    "strength" : 78,
+    "fitness" : 89,
+    "fitnessCapacity" : 89
+  }
+}

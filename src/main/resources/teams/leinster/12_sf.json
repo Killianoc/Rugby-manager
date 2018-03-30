@@ -1,0 +1,22 @@
+{
+  "playerId" : 12,
+  "profile" : {
+    "name" : "Scott Fardy",
+    "age" : 28,
+    "position" : "SECOND_ROW_R",
+    "description" : "An okay second row",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 34,
+    "tackling" : 74,
+    "passing" : 60,
+    "aggression" : 77,
+    "leadership" : 70,
+    "creativity" : 66,
+    "speed" : 68,
+    "strength" : 76,
+    "fitness" : 86,
+    "fitnessCapacity" : 86
+  }
+}

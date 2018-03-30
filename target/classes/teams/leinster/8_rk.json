@@ -1,0 +1,22 @@
+{
+  "playerId" : 8,
+  "profile" : {
+    "name" : "Rob Kearney",
+    "age" : 30,
+    "position" : "FULLBACK",
+    "description" : "A good international player",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 70,
+    "tackling" : 72,
+    "passing" : 74,
+    "aggression" : 70,
+    "leadership" : 78,
+    "creativity" : 70,
+    "speed" : 74,
+    "strength" : 68,
+    "fitness" : 79,
+    "fitnessCapacity" : 79
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "playerId" : 21,
+  "profile" : {
+    "name" : "Alex Wootton",
+    "age" : 25,
+    "position" : "LEFT_WING",
+    "description" : "An okay wing",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 56,
+    "tackling" : 65,
+    "passing" : 67,
+    "aggression" : 70,
+    "leadership" : 43,
+    "creativity" : 61,
+    "speed" : 81,
+    "strength" : 68,
+    "fitness" : 86,
+    "fitnessCapacity" : 86
+  }
+}

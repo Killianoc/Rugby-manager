@@ -1,0 +1,22 @@
+{
+  "playerId" : 27,
+  "profile" : {
+    "name" : "Jean Kleyn",
+    "age" : 30,
+    "position" : "SECOND_ROW_R",
+    "description" : "A good second row",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 41,
+    "tackling" : 70,
+    "passing" : 56,
+    "aggression" : 79,
+    "leadership" : 62,
+    "creativity" : 67,
+    "speed" : 76,
+    "strength" : 87,
+    "fitness" : 87,
+    "fitnessCapacity" : 87
+  }
+}

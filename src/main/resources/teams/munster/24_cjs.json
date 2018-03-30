@@ -1,0 +1,22 @@
+{
+  "playerId" : 24,
+  "profile" : {
+    "name" : "C.J Stander",
+    "age" : 29,
+    "position" : "NUMBER_EIGHT",
+    "description" : "A good number eight",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 42,
+    "tackling" : 78,
+    "passing" : 63,
+    "aggression" : 87,
+    "leadership" : 80,
+    "creativity" : 69,
+    "speed" : 72,
+    "strength" : 88,
+    "fitness" : 87,
+    "fitnessCapacity" : 87
+  }
+}

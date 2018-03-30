@@ -1,0 +1,22 @@
+{
+  "playerId" : 3,
+  "profile" : {
+    "name" : "Robbie Henshaw",
+    "age" : 27,
+    "position" : "INSIDE_CENTER",
+    "description" : "A very good player",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 63,
+    "tackling" : 75,
+    "passing" : 76,
+    "aggression" : 68,
+    "leadership" : 60,
+    "creativity" : 70,
+    "speed" : 78,
+    "strength" : 65,
+    "fitness" : 86,
+    "fitnessCapacity" : 86
+  }
+}

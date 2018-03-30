@@ -3,7 +3,7 @@
   "profile" : {
     "name" : "Peter O' Mahoney",
     "age" : 30,
-    "position" : "FLANKER",
+    "position" : "OPENSIDE_FLANKER",
     "description" : "A world class player",
     "currentTeam" : "MUNSTER"
   },

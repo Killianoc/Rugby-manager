@@ -1,0 +1,22 @@
+{
+  "playerId" : 18,
+  "profile" : {
+    "name" : "Andrew Conway",
+    "age" : 28,
+    "position" : "RIGHT_WING",
+    "description" : "A decent wing",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 68,
+    "tackling" : 69,
+    "passing" : 66,
+    "aggression" : 70,
+    "leadership" : 40,
+    "creativity" : 71,
+    "speed" : 79,
+    "strength" : 56,
+    "fitness" : 87,
+    "fitnessCapacity" : 87
+  }
+}

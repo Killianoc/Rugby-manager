@@ -1,0 +1,22 @@
+{
+  "playerId" : 14,
+  "profile" : {
+    "name" : "Tadgh Furlong",
+    "age" : 25,
+    "position" : "TIGHTHEAD_PROP",
+    "description" : "A world class player",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 50,
+    "tackling" : 80,
+    "passing" : 66,
+    "aggression" : 84,
+    "leadership" : 72,
+    "creativity" : 64,
+    "speed" : 62,
+    "strength" : 87,
+    "fitness" : 86,
+    "fitnessCapacity" : 86
+  }
+}

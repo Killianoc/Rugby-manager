@@ -1,0 +1,22 @@
+{
+  "playerId" : 4,
+  "profile" : {
+    "name" : "Luke McGrath",
+    "age" : 28,
+    "position" : "SCRUMHALF",
+    "description" : "A decent provincial player",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 68,
+    "tackling" : 70,
+    "passing" : 78,
+    "aggression" : 69,
+    "leadership" : 64,
+    "creativity" : 67,
+    "speed" : 70,
+    "strength" : 60,
+    "fitness" : 78,
+    "fitnessCapacity" : 78
+  }
+}

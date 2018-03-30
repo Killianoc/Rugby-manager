@@ -1,0 +1,22 @@
+{
+  "playerId" : 26,
+  "profile" : {
+    "name" : "Billy Holland",
+    "age" : 28,
+    "position" : "SECOND_ROW_L",
+    "description" : "A good second row",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 43,
+    "tackling" : 75,
+    "passing" : 65,
+    "aggression" : 85,
+    "leadership" : 80,
+    "creativity" : 71,
+    "speed" : 67,
+    "strength" : 83,
+    "fitness" : 81,
+    "fitnessCapacity" : 81
+  }
+}

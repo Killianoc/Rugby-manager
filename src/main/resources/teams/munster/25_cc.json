@@ -1,0 +1,22 @@
+{
+  "playerId" : 25,
+  "profile" : {
+    "name" : "Chris Cloete",
+    "age" : 27,
+    "position" : "BLINDSIDE_FLANKER",
+    "description" : "A good flanker",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 32,
+    "tackling" : 75,
+    "passing" : 54,
+    "aggression" : 77,
+    "leadership" : 54,
+    "creativity" : 63,
+    "speed" : 74,
+    "strength" : 81,
+    "fitness" : 80,
+    "fitnessCapacity" : 80
+  }
+}

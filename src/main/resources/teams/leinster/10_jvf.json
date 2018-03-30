@@ -1,0 +1,22 @@
+{
+  "playerId" : 10,
+  "profile" : {
+    "name" : "Josh van der Flier",
+    "age" : 27,
+    "position" : "BLINDSIDE_FLANKER",
+    "description" : "A good flanker",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 44,
+    "tackling" : 80,
+    "passing" : 68,
+    "aggression" : 80,
+    "leadership" : 60,
+    "creativity" : 59,
+    "speed" : 72,
+    "strength" : 80,
+    "fitness" : 86,
+    "fitnessCapacity" : 86
+  }
+}

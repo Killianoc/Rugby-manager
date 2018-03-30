@@ -1,0 +1,22 @@
+{
+  "playerId" : 17,
+  "profile" : {
+    "name" : "Simon Zebo",
+    "age" : 26,
+    "position" : "FULL_BACK",
+    "description" : "A good wing",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 68,
+    "tackling" : 72,
+    "passing" : 70,
+    "aggression" : 68,
+    "leadership" : 50,
+    "creativity" : 78,
+    "speed" : 79,
+    "strength" : 57,
+    "fitness" : 84,
+    "fitnessCapacity" : 84
+  }
+}

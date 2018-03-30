@@ -1,0 +1,22 @@
+{
+  "playerId" : 15,
+  "profile" : {
+    "name" : "Sean Cronin",
+    "age" : 28,
+    "position" : "HOOKER",
+    "description" : "A good hooker",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 68,
+    "tackling" : 77,
+    "passing" : 58,
+    "aggression" : 79,
+    "leadership" : 58,
+    "creativity" : 71,
+    "speed" : 80,
+    "strength" : 79,
+    "fitness" : 82,
+    "fitnessCapacity" : 82
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "playerId" : 6,
+  "profile" : {
+    "name" : "James Lowe",
+    "age" : 29,
+    "position" : "LEFT_WING",
+    "description" : "An accomplished winger",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 70,
+    "tackling" : 72,
+    "passing" : 68,
+    "aggression" : 78,
+    "leadership" : 65,
+    "creativity" : 80,
+    "speed" : 84,
+    "strength" : 77,
+    "fitness" : 86,
+    "fitnessCapacity" : 86
+  }
+}

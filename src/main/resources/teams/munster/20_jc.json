@@ -1,0 +1,22 @@
+{
+  "playerId" : 20,
+  "profile" : {
+    "name" : "JACOB TAUTE",
+    "age" : 28,
+    "position" : "OUTSIDE_CENTER",
+    "description" : "A good wing",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 55,
+    "tackling" : 69,
+    "passing" : 70,
+    "aggression" : 72,
+    "leadership" : 75,
+    "creativity" : 76,
+    "speed" : 77,
+    "strength" : 67,
+    "fitness" : 82,
+    "fitnessCapacity" : 82
+  }
+}

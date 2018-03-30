@@ -1,0 +1,22 @@
+{
+  "playerId" : 5,
+  "profile" : {
+    "name" : "Garry Ringrose",
+    "age" : 23,
+    "position" : "OUTSIDE_CENTER",
+    "description" : "A young player with potential",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 68,
+    "tackling" : 78,
+    "passing" : 74,
+    "aggression" : 70,
+    "leadership" : 60,
+    "creativity" : 80,
+    "speed" : 80,
+    "strength" : 72,
+    "fitness" : 90,
+    "fitnessCapacity" : 90
+  }
+}

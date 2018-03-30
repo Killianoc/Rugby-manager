@@ -1,0 +1,22 @@
+{
+  "playerId" : 22,
+  "profile" : {
+    "name" : "Tyler Bleyendaal",
+    "age" : 25,
+    "position" : "OUTHALF",
+    "description" : "A decent outhalf",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 78,
+    "tackling" : 70,
+    "passing" : 75,
+    "aggression" : 70,
+    "leadership" : 79,
+    "creativity" : 80,
+    "speed" : 74,
+    "strength" : 68,
+    "fitness" : 80,
+    "fitnessCapacity" : 80
+  }
+}

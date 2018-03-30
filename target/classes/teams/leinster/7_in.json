@@ -1,0 +1,22 @@
+{
+  "playerId" : 7,
+  "profile" : {
+    "name" : "Isa Nacewa",
+    "age" : 33,
+    "position" : "RIGHT_WING",
+    "description" : "An older player with a lot of skill",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 78,
+    "tackling" : 74,
+    "passing" : 68,
+    "aggression" : 70,
+    "leadership" : 78,
+    "creativity" : 70,
+    "speed" : 81,
+    "strength" : 67,
+    "fitness" : 78,
+    "fitnessCapacity" : 78
+  }
+}

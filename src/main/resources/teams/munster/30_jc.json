@@ -1,0 +1,22 @@
+{
+  "playerId" : 30,
+  "profile" : {
+    "name" : "James Cronin",
+    "age" : 29,
+    "position" : "LOOSEHEAD_PROP",
+    "description" : "A good prop",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 44,
+    "tackling" : 71,
+    "passing" : 68,
+    "aggression" : 76,
+    "leadership" : 48,
+    "creativity" : 57,
+    "speed" : 58,
+    "strength" : 79,
+    "fitness" : 86,
+    "fitnessCapacity" : 86
+  }
+}

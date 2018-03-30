@@ -1,0 +1,22 @@
+{
+  "playerId" : 19,
+  "profile" : {
+    "name" : "Dan Goggin",
+    "age" : 24,
+    "position" : "INSIDE_CENTER",
+    "description" : "A okay center",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 55,
+    "tackling" : 70,
+    "passing" : 68,
+    "aggression" : 70,
+    "leadership" : 40,
+    "creativity" : 72,
+    "speed" : 76,
+    "strength" : 56,
+    "fitness" : 78,
+    "fitnessCapacity" : 78
+  }
+}

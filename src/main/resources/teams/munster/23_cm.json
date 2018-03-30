@@ -1,0 +1,22 @@
+{
+  "playerId" : 23,
+  "profile" : {
+    "name" : "Conor Murray",
+    "age" : 28,
+    "position" : "SCRUMHALF",
+    "description" : "A world class nine",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 78,
+    "tackling" : 70,
+    "passing" : 85,
+    "aggression" : 72,
+    "leadership" : 81,
+    "creativity" : 84,
+    "speed" : 82,
+    "strength" : 67,
+    "fitness" : 85,
+    "fitnessCapacity" : 85
+  }
+}

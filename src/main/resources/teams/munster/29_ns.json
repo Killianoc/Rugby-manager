@@ -1,0 +1,22 @@
+{
+  "playerId" : 29,
+  "profile" : {
+    "name" : "Niall Scannell",
+    "age" : 29,
+    "position" : "HOOKER",
+    "description" : "A good hooker",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 31,
+    "tackling" : 73,
+    "passing" : 64,
+    "aggression" : 77,
+    "leadership" : 41,
+    "creativity" : 64,
+    "speed" : 68,
+    "strength" : 77,
+    "fitness" : 86,
+    "fitnessCapacity" : 86
+  }
+}

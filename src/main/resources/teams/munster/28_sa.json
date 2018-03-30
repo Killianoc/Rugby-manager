@@ -1,0 +1,22 @@
+{
+  "playerId" : 28,
+  "profile" : {
+    "name" : "Stephen Archer",
+    "age" : 25,
+    "position" : "TIGHTHEAD_PROP",
+    "description" : "A good prop",
+    "currentTeam" : "MUNSTER"
+  },
+  "skills" : {
+    "kicking" : 43,
+    "tackling" : 70,
+    "passing" : 51,
+    "aggression" : 78,
+    "leadership" : 52,
+    "creativity" : 48,
+    "speed" : 61,
+    "strength" : 80,
+    "fitness" : 76,
+    "fitnessCapacity" : 76
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "playerId" : 16,
+  "profile" : {
+    "name" : "Jack McGrath",
+    "age" : 27,
+    "position" : "LOOSEHEAD_PROP",
+    "description" : "A great prop",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 44,
+    "tackling" : 71,
+    "passing" : 60,
+    "aggression" : 78,
+    "leadership" : 50,
+    "creativity" : 56,
+    "speed" : 64,
+    "strength" : 55,
+    "fitness" : 84,
+    "fitnessCapacity" : 84
+  }
+}

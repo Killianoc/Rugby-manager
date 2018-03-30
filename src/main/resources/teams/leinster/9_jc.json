@@ -1,0 +1,22 @@
+{
+  "playerId" : 9,
+  "profile" : {
+    "name" : "Jack Conan",
+    "age" : 26,
+    "position" : "NUMBER_EIGHT",
+    "description" : "A decent number eight",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 44,
+    "tackling" : 78,
+    "passing" : 62,
+    "aggression" : 79,
+    "leadership" : 68,
+    "creativity" : 68,
+    "speed" : 76,
+    "strength" : 78,
+    "fitness" : 80,
+    "fitnessCapacity" : 80
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "playerId" : 13,
+  "profile" : {
+    "name" : "Devin Toner",
+    "age" : 29,
+    "position" : "SECOND_ROW_L",
+    "description" : "A good second row",
+    "currentTeam" : "LEINSTER"
+  },
+  "skills" : {
+    "kicking" : 34,
+    "tackling" : 75,
+    "passing" : 60,
+    "aggression" : 77,
+    "leadership" : 70,
+    "creativity" : 44,
+    "speed" : 56,
+    "strength" : 79,
+    "fitness" : 80,
+    "fitnessCapacity" : 80
+  }
+}
